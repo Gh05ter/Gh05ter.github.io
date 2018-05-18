@@ -1,1 +1,1 @@
-hello world
+GHOST 's Blog
